@@ -1,4 +1,7 @@
-- 👋 Hi, I’m Nolan!
+<p align="center">
+	<img src="https://i.imgur.com/nPZyGNo.gif" height="200" width="200" alt="GitHub Spray logo"/>
+  
+  - 👋 Hi, I’m Nolan!
 - 👀 I’m interested in learning about AI in Healthcare
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on my networking projects
