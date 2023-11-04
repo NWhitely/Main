@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NWhitely
+- 👋 Hi, I’m Nolan!
 - 👀 I’m interested in learning about AI in Healthcare
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on my networking projects
