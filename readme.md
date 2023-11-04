@@ -1,6 +1,7 @@
-[![](https://img.shields.io/badge/Made%20With-Github%20Spray-lightgrey.svg?style=for-the-badge&logo=github)](https://github.com/Annihil/github-spray)  
-[![](https://i.imgur.com/2DrTn0Z.gif)](https://github.com/Annihil/github-spray)
+<p align="center">
+	<img src="https://i.imgur.com/nPZyGNo.gif" height="200" width="200" alt="GitHub Spray logo"/>
 
+  
 - 👋 Hi, I’m Nolan!
 - 👀 I’m interested in learning about AI in Healthcare
 - 🌱 I’m currently learning Python
